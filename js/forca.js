@@ -206,7 +206,23 @@ const palavras = [
     palavra050 = {
         nome: "HIPOPOTAMO",
         categoria:"ANIMAIS"
-    }
+    },
+    palavra051 = {
+        nome: "COMPUTADOR",
+        categoria:"TI"
+    },
+    palavra052 = {
+        nome: "INTERNET",
+        categoria:"TI"
+    },
+    palavra053 = {
+        nome: "PROGRAMAÇÃO",
+        categoria:"TI"
+    },
+    palavra054 = {
+        nome: "BANCO DE DADOS",
+        categoria:"TI"
+    },
 ];
 
 criarPalavraSecreta()
