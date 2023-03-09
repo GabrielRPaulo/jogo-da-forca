@@ -244,7 +244,8 @@ function montarPalavra(){
     const palavraTela = document.getElementById("palavra-secreta");
     palavraTela.innerHTML = "";
 
-    console.log(palavraSecretaSorteada)
+    //console.log(palavraSecretaSorteada)
+    
     for(i = 0; i < palavraSecretaSorteada.length; i++){  
         if(listaDinamica[i] == undefined){
             if (palavraSecretaSorteada[i] == " ") {
