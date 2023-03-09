@@ -265,7 +265,7 @@ function verificaLetraEscolhida(letra){
 function mudarStyleLetra(tecla, condicao){
     if(condicao == false)
     {
-        document.getElementById(tecla).style.background = "#C71585";
+        document.getElementById(tecla).style.background = "#cd1b2e";
         document.getElementById(tecla).style.color = "#ffffff";
     }
     else{
